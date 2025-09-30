@@ -5,6 +5,8 @@ description: This resource contains reading tips and study questions on paradigm
 file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/da87612342a386173d9549d7e77faad1_read5.pdf
 file_size: 19708
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

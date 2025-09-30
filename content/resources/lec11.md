@@ -5,6 +5,8 @@ description: This resource contains lecture notes on research writing for non-ac
 file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/3744f281f989212791517531030c382a_lec11.pdf
 file_size: 31007
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

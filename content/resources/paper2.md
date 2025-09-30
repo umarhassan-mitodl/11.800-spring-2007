@@ -4,6 +4,8 @@ description: This resource contains an example of a completed final case paper.
 file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/af594d07054dd56a15ea985637fcd93f_paper2.pdf
 file_size: 102983
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

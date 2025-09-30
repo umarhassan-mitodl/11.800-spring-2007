@@ -6,6 +6,8 @@ description: This resource contains reading tips and study questions on action l
 file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/ea36214b61c2938bfccdd9bc7d09768d_read9.pdf
 file_size: 19155
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
