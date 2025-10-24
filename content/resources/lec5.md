@@ -5,8 +5,6 @@ description: This resource contains lecture notes on paradigms and fads, design 
 file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/c55c014a1b031f5d83b877f3a91d9f84_lec5.pdf
 file_size: 38111
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

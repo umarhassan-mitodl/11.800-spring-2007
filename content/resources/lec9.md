@@ -6,8 +6,6 @@ description: This resource contains lecture notes on action learning and practic
 file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/0414e808090ab0d111ded7639b91456d_lec9.pdf
 file_size: 32371
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

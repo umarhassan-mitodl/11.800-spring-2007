@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the case paper and final paper assignments, sample
   papers, and guidelines for the final paper.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

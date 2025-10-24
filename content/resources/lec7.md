@@ -6,8 +6,6 @@ description: This resource contains lecture notes on the case of anti-poverty po
 file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/a105fca2b7d2294689326ffe80fffe2c_lec7.pdf
 file_size: 31159
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

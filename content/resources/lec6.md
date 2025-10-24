@@ -5,8 +5,6 @@ description: This resource contains lecture notes on diffusion of innovation, cr
 file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/1c7842c33ef0c5da707503a7e696b172_lec6.pdf
 file_size: 21250
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

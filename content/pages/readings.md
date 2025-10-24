@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides citations and links for course readings, tips and
   questions, and the schedule of readings by session and topic.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

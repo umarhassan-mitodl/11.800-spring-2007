@@ -6,8 +6,6 @@ description: This resource contains reading tips and study questions on the poli
 file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/db1195d1178a727a6435993fb376551e_read10.pdf
 file_size: 16284
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

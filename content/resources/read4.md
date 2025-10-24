@@ -6,8 +6,6 @@ description: This resource contains reading tips and study questions on frames a
 file: /courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/cf0df5a1dfa85f6b61fb11757eed6631_read4.pdf
 file_size: 26952
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
